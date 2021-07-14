@@ -28,8 +28,8 @@ console.log(numberOfFilms);
 const personalMovieDB = {
     count: numberOfFilms,
     movies: {},
-    actors:{},
-    genres:[],
+    actors: {},
+    genres: [],
     privat: false, 
 }; 
 
