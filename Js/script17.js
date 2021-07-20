@@ -11,6 +11,7 @@ console.log(Fruit.indexOf("l"));
 const dna = "TGAAAGGTGSTTGGGAGGGTSTTGSGGTSSTSGSTTSSTGGGTGGTGAST"; 
 console.log(dna.slice(6,40)); 
 console.log(dna.substr(6,12)); // Skolko nado viriztat znacheniy 
+console.log(dna.getElemtByTagName("TGA")); 
 
 
 // Математические методы 
